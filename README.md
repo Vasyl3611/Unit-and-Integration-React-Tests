@@ -1,1 +1,1 @@
-# Redu
+React and Redux testing
